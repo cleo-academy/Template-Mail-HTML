@@ -199,26 +199,6 @@ footer {
 }
 
 /* magic-link.html */
-.code-container {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-}
-
-.code-item {
-    display: flex;
-    width: 55px;
-    height: 55px;
-    padding: 19px;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    border-radius: 5px;
-    border: 2px solid rgba(0, 8, 207, 0.80);
-    background: #FFF;
-}
-
 .code-text {
     color: var(--Slate-950, #020617);
     font-family: Inter;
